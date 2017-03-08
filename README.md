@@ -1,4 +1,4 @@
-# simple-page
+# Exercise: Create, Embed, and Share your Chart and Data Story
 
 On this vizualisation, is possible to observe that are more males than other kind of genre, and many people didn´t answer aboud your country. USA and India have more people on course. USA have more Female than India, but less Male. Etc...
 
