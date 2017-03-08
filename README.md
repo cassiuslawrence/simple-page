@@ -1,5 +1,5 @@
 # simple-page
 
-Link to live site https://cassiuslawrence.github.io/simple-page/
+On this vizualisation, is possible to observe that are more males than other kind of genre, and many people didn´t answer aboud your country. USA and India have more people on course. USA have more Female than India, but less Male. Etc...
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1DRU-B5FEOXSN8LP_9auw3jlw-C78Veiq9f39Fh_dbrk/pubchart?oid=1178431578&amp;format=interactive"></iframe>
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNzI1NTE3Y2EtZTBmNi00NTY0LWE2MDAtZGZiZTI4NmNiMzMwIiwidCI6ImIyMDE1YjJmLWU1ZDItNGYwZi04MDU2LWMyZGFlNThlYjBhNiJ9" frameborder="0" allowFullScreen="true"></iframe>
